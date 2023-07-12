@@ -1,0 +1,76 @@
+.init_container{
+    display: flex;
+    max-width: 870px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 48px;
+    
+}
+.init_img_block{
+    max-width: 300px;
+}
+.init_title{
+    color: #000;
+text-align: center;
+font-size: 24px;
+font-weight: 700;
+line-height: 130%;
+max-width: 277px;
+padding: 16px;
+margin-right: auto;
+margin-left: auto;
+}
+.init_text{
+    color: #000;
+text-align: center;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+max-width: 719px;
+margin-right: auto;
+margin-left: auto;
+
+}
+.init_tit{
+    margin-top: 112px;
+}
+.init_title_block{
+    color: #000;
+text-align: center;
+font-size: 20px;
+font-weight: 700;
+line-height: 130%;
+max-width: 277px;
+}
+.init_text_block{
+    color: #000;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+max-width: 497px;
+}
+
+.init_content{
+    margin-top: 100px;
+margin-left: 35px;
+}
+.init_btn{
+    color: #FFF;
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+background: #00BAFC;
+border-radius: 5px;
+border: 2px solid #00BAFC;
+padding: 6px 16px;
+transition: all 0.4s ease;
+&:hover{
+    background-color: #FFF;
+    color: #00BAFC;
+    }
+}
+.btn_init_block{
+    text-align: center;
+    margin-top: 48px;
+    margin-bottom: 50px;
+}
